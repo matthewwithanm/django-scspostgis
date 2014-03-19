@@ -9,7 +9,7 @@ README = read('README.rst')
 
 setup(
     name='django-scspostgis',
-    version='0.1',
+    version='1.0',
     description='A PostGIS db backend that works with standard_conforming_strings.',
     long_description=README,
 
