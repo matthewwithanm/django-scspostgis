@@ -5,7 +5,7 @@ from distutils.core import setup
 def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
-README = read('README.markdown')
+README = read('README.rst')
 
 setup(
     name='django-scspostgis',
