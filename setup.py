@@ -13,8 +13,8 @@ setup(
     description='A PostGIS db backend that works with standard_conforming_strings.',
     long_description=README,
 
-    author='Matthew Tretter',
-    author_email='matthew@exanimo.com',
+    author='Matthew Dapena-Tretter',
+    author_email='m@tthewwithanm.com',
     packages=[
         'scspostgis',
     ],
